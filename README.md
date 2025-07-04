@@ -1,5 +1,9 @@
-<p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/OHCMS/master/Modules/Admin/assets/img/logo.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/OHCMS/master/admin_dashboard.png"></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartMbithi/OHCMS/master/Modules/Admin/assets/img/logo.png" alt="Logo" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/MartMbithi/OHCMS/master/admin_dashboard.png" alt="Admin Dashboard" />
+</div>
+
 
 
 ## About  HealthCare Hospital Information System
