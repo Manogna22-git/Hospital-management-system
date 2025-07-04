@@ -1,6 +1,9 @@
 ## 🏥 Admin Dashboard
 
-<img src="https://github.com/your-username/your-repo-name/blob/main/WhatsApp%20Image%202025-07-04%20at%2010.30.24%20PM.jpeg?raw=true" alt="Admin Dashboard Screenshot" />
+<p align="center">
+  <img src="https://github.com/your-username/your-repo-name/blob/main/WhatsApp%20Image%202025-07-04%20at%2010.30.24%20PM.jpeg?raw=true" alt="Admin Dashboard" />
+</p>
+
 
 
 
