@@ -1,7 +1,7 @@
 ## 🏥 Admin Dashboard
 
-<p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/master/Modules/Admin/assets/img/logo.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/master/admin_dashboard.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/OHCMS/master/Modules/Admin/assets/img/logo.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/OHCMS/master/admin_dashboard.png"></p>
 
 
 
