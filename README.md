@@ -27,8 +27,4 @@ HealthCare Hospital Management System is a web based and opensource Hospital Inf
     Password : employee
 ```
 
-## License
-
-The Orion HealthCare Hospital Information System is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
 
