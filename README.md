@@ -1,8 +1,7 @@
 ## 🏥 Admin Dashboard
 
-<p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/WhatsApp%20Image%202025-07-04%20at%2010.30.24%20PM.jpeg?raw=true" alt="Admin Dashboard" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/OHCMS/master/Modules/Admin/assets/img/logo.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/OHCMS/master/admin_dashboard.png"></p>
 
 
 
