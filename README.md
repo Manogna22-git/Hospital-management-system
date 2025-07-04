@@ -2,9 +2,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/OHCMS/master/admin_dashboard.png"></p>
 
 
-## About Orion HealthCare Hospital Information System
+## About  HealthCare Hospital Information System
 
-Orion HealthCare Hospital Management System is a web based and opensource Hospital Information System crafted with love and passion which targets low level and middle class health care corporations.
+HealthCare Hospital Management System is a web based and opensource Hospital Information System crafted with love and passion which targets low level and middle class health care corporations.
 
 ## Deployment
 1.Clone repo or download as a zip.<br>
